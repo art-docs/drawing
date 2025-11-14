@@ -6,6 +6,5 @@ theme:
     primary: black
 
 nav:
-  - sextion: Drawing
   - index.md
   - Progradms: programs.md

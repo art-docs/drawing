@@ -1,0 +1,11 @@
+site_name: Art Docs - Drawing
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+
+nav:
+  - sextion: Drawing
+  - index.md
+  - Progradms: programs.md
